@@ -2,7 +2,7 @@
 
 A modern, feature-rich productivity dashboard built with React, TypeScript, and Firebase.
 
-![LifeHub Dashboard](https://via.placeholder.com/800x400?text=LifeHub+Dashboard)
+![LifeHub Dashboard](task-master-phi-five.vercel.app)
 
 ## 🌟 Features
 
@@ -27,7 +27,7 @@ A modern, feature-rich productivity dashboard built with React, TypeScript, and 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/lifehub-dashboard.git
+   git clone https://github.com/parthtaneja0001/TaskMaster.git
    cd lifehub-dashboard
    ```
 
