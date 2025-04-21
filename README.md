@@ -2,7 +2,7 @@
 
 A modern, feature-rich productivity dashboard built with React, TypeScript, and Firebase.
 
-![LifeHub Dashboard](task-master-phi-five.vercel.app)
+[LifeHub Dashboard](https://task-master-phi-five.vercel.app)
 
 ## 🌟 Features
 
